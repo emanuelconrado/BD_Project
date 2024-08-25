@@ -1,6 +1,6 @@
 ﻿namespace BD_Project
 {
-    partial class insert_screen
+    partial class insert_screen_aluno
     {
         /// <summary>
         /// Required designer variable.
@@ -38,6 +38,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.sobrenome_input = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // student_name_input
@@ -79,7 +80,6 @@
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 5;
             this.label1.Text = "Nome";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -98,7 +98,6 @@
             this.label4.Size = new System.Drawing.Size(62, 13);
             this.label4.TabIndex = 8;
             this.label4.Text = "Instrumento";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // sobrenome_input
             // 
@@ -115,13 +114,23 @@
             this.label3.Size = new System.Drawing.Size(61, 13);
             this.label3.TabIndex = 10;
             this.label3.Text = "Sobrenome";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(33, 25);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 11;
+            this.button1.Text = "Voltar";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.back);
             // 
             // insert_screen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.sobrenome_input);
             this.Controls.Add(this.label4);
@@ -149,5 +158,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox sobrenome_input;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button button1;
     }
 }

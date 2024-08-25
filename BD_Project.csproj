@@ -158,11 +158,17 @@
     <Compile Include="BD_acess.Designer.cs">
       <DependentUpon>BD_acess.cs</DependentUpon>
     </Compile>
-    <Compile Include="insert_screen.cs">
+    <Compile Include="delete.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="insert_screen.Designer.cs">
-      <DependentUpon>insert_screen.cs</DependentUpon>
+    <Compile Include="delete.Designer.cs">
+      <DependentUpon>delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insert_screen_aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insert_screen_aluno.Designer.cs">
+      <DependentUpon>insert_screen_aluno.cs</DependentUpon>
     </Compile>
     <Compile Include="login_screen.cs">
       <SubType>Form</SubType>
@@ -170,19 +176,53 @@
     <Compile Include="login_screen.Designer.cs">
       <DependentUpon>login_screen.cs</DependentUpon>
     </Compile>
+    <Compile Include="mother_classes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="show_screen.cs">
+    <Compile Include="show_screen_aluno.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="show_screen.Designer.cs">
-      <DependentUpon>show_screen.cs</DependentUpon>
+    <Compile Include="show_screen_aluno.Designer.cs">
+      <DependentUpon>show_screen_aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="show_screen_musica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="show_screen_musica.Designer.cs">
+      <DependentUpon>show_screen_musica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="show_screen_professor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="show_screen_professor.Designer.cs">
+      <DependentUpon>show_screen_professor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="show_screen_sala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="show_screen_sala.Designer.cs">
+      <DependentUpon>show_screen_sala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="show_screen_all.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="show_screen_all.Designer.cs">
+      <DependentUpon>show_screen_all.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update.Designer.cs">
+      <DependentUpon>update.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="BD_acess.resx">
       <DependentUpon>BD_acess.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="insert_screen.resx">
-      <DependentUpon>insert_screen.cs</DependentUpon>
+    <EmbeddedResource Include="delete.resx">
+      <DependentUpon>delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insert_screen_aluno.resx">
+      <DependentUpon>insert_screen_aluno.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="login_screen.resx">
       <DependentUpon>login_screen.cs</DependentUpon>
@@ -196,8 +236,23 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="show_screen.resx">
-      <DependentUpon>show_screen.cs</DependentUpon>
+    <EmbeddedResource Include="show_screen_aluno.resx">
+      <DependentUpon>show_screen_aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="show_screen_musica.resx">
+      <DependentUpon>show_screen_musica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="show_screen_professor.resx">
+      <DependentUpon>show_screen_professor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="show_screen_sala.resx">
+      <DependentUpon>show_screen_sala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="show_screen_all.resx">
+      <DependentUpon>show_screen_all.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

@@ -80,5 +80,11 @@ C:\Users\emanu\source\repos\BD_Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClien
 C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.csproj.Up2Date
 C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.login_screen.resources
 C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.BD_acess.resources
-C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.insert_screen.resources
-C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.show_screen.resources
+C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.show_screen_aluno.resources
+C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.show_screen_musica.resources
+C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.show_screen_professor.resources
+C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.insert_screen_aluno.resources
+C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.show_screen_sala.resources
+C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.update.resources
+C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.delete.resources
+C:\Users\emanu\source\repos\BD_Project\obj\Debug\BD_Project.show_screen_all.resources

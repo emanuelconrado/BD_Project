@@ -25,14 +25,28 @@ namespace BD_Project
 
         private void insert_Click(object sender, EventArgs e)
         {
-            insert_screen main = new insert_screen(user, password);
+            insert_screen_aluno main = new insert_screen_aluno(user, password);
             main.Show();
             this.Hide();
         }
 
         private void show_button_Click(object sender, EventArgs e)
         {
-            show_screen main = new show_screen(user, password);
+            show_screen_aluno main = new show_screen_aluno(user, password);
+            main.Show();
+            this.Hide();
+        }
+
+        private void update_button_Click(object sender, EventArgs e)
+        {
+            update main = new update(user, password);
+            main.Show();
+            this.Hide();
+        }
+
+        private void delete_button_Click(Object sender, EventArgs e)
+        {
+            delete main = new delete(user, password);
             main.Show();
             this.Hide();
         }

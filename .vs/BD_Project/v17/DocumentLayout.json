@@ -3,56 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\emanu\\source\\repos\\BD_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\show_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\show_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:login_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:login_screen.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:insert_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\bd_acess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:bd_acess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:insert_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\mother_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:mother_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\bd_acess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\show_screen_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\show_screen_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:show_screen_professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\bd_acess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:bd_acess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\insert_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:insert_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\insert_screen.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:insert_screen.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|C:\\Users\\emanu\\source\\repos\\BD_Project\\bd_acess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:bd_acess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\insert_screen_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:insert_screen_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\insert_screen_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:insert_screen_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|c:\\users\\emanu\\source\\repos\\bd_project\\login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941F828-300A-4653-B5F9-7775CBC5F7E8}|BD_Project.csproj|solutionrelative:login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,71 +90,230 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "show_screen.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen.cs",
-              "RelativeDocumentMoniker": "show_screen.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen.cs",
-              "RelativeToolTip": "show_screen.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAewCkAAABEAAAA",
+              "DocumentIndex": 10,
+              "Title": "show_screen_all.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_all.cs",
+              "RelativeDocumentMoniker": "show_screen_all.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_all.cs",
+              "RelativeToolTip": "show_screen_all.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAvwFsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:27:10.243Z",
+              "WhenOpened": "2024-08-24T22:49:17.271Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "show_screen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen.cs",
-              "RelativeDocumentMoniker": "show_screen.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen.cs [Design]",
-              "RelativeToolTip": "show_screen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:26:52.483Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "insert_screen.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.Designer.cs",
-              "RelativeDocumentMoniker": "insert_screen.Designer.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.Designer.cs",
-              "RelativeToolTip": "insert_screen.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Title": "show_screen_all.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_all.cs",
+              "RelativeDocumentMoniker": "show_screen_all.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_all.cs [Design]",
+              "RelativeToolTip": "show_screen_all.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:58:05.846Z",
+              "WhenOpened": "2024-08-24T22:47:02.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "delete.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\delete.cs",
+              "RelativeDocumentMoniker": "delete.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\delete.cs",
+              "RelativeToolTip": "delete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:13:38.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "insert_screen.resx",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.resx",
-              "RelativeDocumentMoniker": "insert_screen.resx",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.resx",
-              "RelativeToolTip": "insert_screen.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-08-23T19:58:28.636Z",
+              "DocumentIndex": 2,
+              "Title": "delete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\delete.cs",
+              "RelativeDocumentMoniker": "delete.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\delete.cs [Design]",
+              "RelativeToolTip": "delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:11:07.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mother_classes.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\mother_classes.cs",
+              "RelativeDocumentMoniker": "mother_classes.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\mother_classes.cs",
+              "RelativeToolTip": "mother_classes.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAqwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:00:07.146Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "update.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\update.cs",
+              "RelativeDocumentMoniker": "update.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\update.cs",
+              "RelativeToolTip": "update.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:28:43.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "update.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\update.cs",
+              "RelativeDocumentMoniker": "update.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\update.cs [Design]",
+              "RelativeToolTip": "update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:26:39.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "login_screen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.cs",
+              "RelativeDocumentMoniker": "login_screen.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.cs [Design]",
+              "RelativeToolTip": "login_screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:03:50.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "insert_screen_aluno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen_aluno.cs",
+              "RelativeDocumentMoniker": "insert_screen_aluno.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen_aluno.cs [Design]",
+              "RelativeToolTip": "insert_screen_aluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:25:52.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "show_screen_sala.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_sala.cs",
+              "RelativeDocumentMoniker": "show_screen_sala.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_sala.cs",
+              "RelativeToolTip": "show_screen_sala.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAawEAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:07:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "show_screen_sala.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_sala.cs",
+              "RelativeDocumentMoniker": "show_screen_sala.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_sala.cs [Design]",
+              "RelativeToolTip": "show_screen_sala.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:07:05.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "show_screen_musica.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_musica.cs",
+              "RelativeDocumentMoniker": "show_screen_musica.cs",
+              "ToolTip": "show_screen_musica.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAEwL0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "",
+              "OverriddenToolTip": "show_screen_musica.cs",
+              "WhenOpened": "2024-08-24T02:17:18.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "show_screen_musica.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_musica.cs",
+              "RelativeDocumentMoniker": "show_screen_musica.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_musica.cs [Design]",
+              "RelativeToolTip": "show_screen_musica.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:58:06.12Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "show_screen_aluno.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_aluno.cs",
+              "RelativeDocumentMoniker": "show_screen_aluno.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_aluno.cs",
+              "RelativeToolTip": "show_screen_aluno.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAvwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:42:27.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "show_screen_aluno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_aluno.cs",
+              "RelativeDocumentMoniker": "show_screen_aluno.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_aluno.cs [Design]",
+              "RelativeToolTip": "show_screen_aluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:42:24.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "show_screen_professor.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_professor.cs",
+              "RelativeDocumentMoniker": "show_screen_professor.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_professor.cs",
+              "RelativeToolTip": "show_screen_professor.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAvwD4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:04:59.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "show_screen_professor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_professor.cs",
+              "RelativeDocumentMoniker": "show_screen_professor.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\show_screen_professor.cs [Design]",
+              "RelativeToolTip": "show_screen_professor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:02:29.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "BD_acess.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\BD_acess.cs",
               "RelativeDocumentMoniker": "BD_acess.cs",
               "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\BD_acess.cs",
               "RelativeToolTip": "BD_acess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAYAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAEwDEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "",
               "WhenOpened": "2024-08-23T19:10:56.396Z",
@@ -134,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "BD_acess.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\BD_acess.cs",
               "RelativeDocumentMoniker": "BD_acess.cs",
@@ -147,90 +334,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "insert_screen.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.cs",
-              "RelativeDocumentMoniker": "insert_screen.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.cs",
-              "RelativeToolTip": "insert_screen.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAqwEcAAABRAAAA",
+              "DocumentIndex": 17,
+              "Title": "insert_screen_aluno.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen_aluno.cs",
+              "RelativeDocumentMoniker": "insert_screen_aluno.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen_aluno.cs",
+              "RelativeToolTip": "insert_screen_aluno.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwDkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T23:07:02.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "insert_screen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.cs",
-              "RelativeDocumentMoniker": "insert_screen.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\insert_screen.cs [Design]",
-              "RelativeToolTip": "insert_screen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T23:04:13.353Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "login_screen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.cs",
-              "RelativeDocumentMoniker": "login_screen.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.cs [Design]",
-              "RelativeToolTip": "login_screen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T01:09:59.077Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "login_screen.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.Designer.cs",
-              "RelativeDocumentMoniker": "login_screen.Designer.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.Designer.cs",
-              "RelativeToolTip": "login_screen.Designer.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDgAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T00:25:28.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "login_screen.resx",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.resx",
-              "RelativeDocumentMoniker": "login_screen.resx",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.resx",
-              "RelativeToolTip": "login_screen.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-08-19T00:25:28.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T00:11:11.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "login_screen.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.cs",
-              "RelativeDocumentMoniker": "login_screen.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\BD_Project\\login_screen.cs",
-              "RelativeToolTip": "login_screen.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAzwCgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T00:13:40.478Z",
               "EditorCaption": ""
             }
           ]

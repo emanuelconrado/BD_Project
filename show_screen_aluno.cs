@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Tracing;
 using System.Drawing;
 using System.Linq;
 using System.Numerics;
@@ -14,24 +15,60 @@ using Microsoft.Data.SqlClient;
 namespace BD_Project
 {
 
-   public partial class show_screen : Form
+   public partial class show_screen_aluno : Form
     {
         string user;
         string password;
-        public Buscar busca;
+        public BuscarAluno busca;
 
         Boolean nameCheck = false;
         Boolean cpfCheck = false;
         Boolean instruCheck = false;
         Boolean salaCheck = false;
+        Boolean matriculaCheck = false;
 
 
-        public show_screen(string user, string password)
+        public show_screen_aluno(string user, string password)
         {
             InitializeComponent();
             this.user = user;
             this.password = password;
-            busca = new Buscar(user, password);
+            busca = new BuscarAluno(user, password);
+        }
+
+        private void consultar_professor(object sender, EventArgs e)
+        {
+            show_screen_professor professor = new show_screen_professor(user, password);
+            professor.Show();
+            this.Hide();
+        }
+
+        private void back(object sender, EventArgs e)
+        {
+            BD_acess main = new BD_acess(user, password);
+            main.Show();
+            this.Hide();
+        }
+
+        private void consultar_sala(object sender, EventArgs e)
+        {
+            show_screen_sala sala = new show_screen_sala(user, password);
+            sala.Show();
+            this.Hide();
+        }
+
+        private void consultar_musica(object sender, EventArgs e)
+        {
+            show_screen_musica musica = new show_screen_musica(user, password);
+            musica.Show();
+            this.Hide();
+        }
+
+        private void consultar_todos(object sender, EventArgs e)
+        {
+            show_screen_all todos = new show_screen_all(user, password);
+            todos.Show();
+            this.Hide();
         }
 
         private void search_click(object sender, EventArgs e)
@@ -55,6 +92,10 @@ namespace BD_Project
             if (salaCheck)
             {
                 lines.Push(busca.BuscaSala(sala_search_input.Text));
+            }
+            if (matriculaCheck)
+            {
+                lines.Push(busca.BuscaMatricula(matricula_serach_input.Text));
             }
 
             String aux = "";
@@ -94,44 +135,18 @@ namespace BD_Project
         {
             salaCheck = !salaCheck;
         }
+        private void checkBox_matricula(object sender, EventArgs e)
+        {
+            matriculaCheck = !matriculaCheck;
+        }
     }
 
     //SELECT * FROM aluno + WHERE + nome + "= " + 
 
-    public class Buscar
+    public class BuscarAluno : Buscar
     {
-        string user;
-        string password;
-
-        public Buscar(string user, string password)
+        public BuscarAluno(string user, string password) : base(user, password)
         {
-            this.user = user;
-            this.password = password;
-        }
-
-        public string BuscaNome(string nome)
-        {
-            return "nome = '" + nome + "'";
-        }
-
-        public string BuscaCpf(string cpf)
-        {
-            return "cpf = " + "'" + cpf + "'";
-        }
-
-        public string BuscaInstru(string instru)
-        {
-            return "instrumento = " + "'" + instru + "'";
-        }
-
-        public string BuscaSala(string sala)
-        {
-            return "id_sala = " + "'" + sala + "'";
-        }
-
-        public string BuscaMatricula(int mat)
-        {
-            return "matricula = " + mat;
         }
 
         //Executa um comando de leitura na table
@@ -157,7 +172,8 @@ namespace BD_Project
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Erro de busca: " + ex.Message);
+                Console.WriteLine(ex.Message);
+                MessageBox.Show("Erro de busca: Campo não especificado.");
             }
         }
     }
