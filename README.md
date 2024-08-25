@@ -1,1 +1,1 @@
-Projeto feito para primeira a nota de de Banco de Dados I
+Projeto feito para primeira nota de Banco de Dados I
