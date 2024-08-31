@@ -44,7 +44,6 @@
             this.username_input.Size = new System.Drawing.Size(200, 20);
             this.username_input.TabIndex = 0;
             this.username_input.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.username_input.TextChanged += new System.EventHandler(this.username_input_TextChanged);
             // 
             // login_button
             // 
@@ -64,7 +63,6 @@
             this.label1.Size = new System.Drawing.Size(70, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "Login Screen";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // password_input
             // 
@@ -101,7 +99,6 @@
             this.label3.Size = new System.Drawing.Size(53, 13);
             this.label3.TabIndex = 6;
             this.label3.Text = "Password";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // login_screen
             // 
